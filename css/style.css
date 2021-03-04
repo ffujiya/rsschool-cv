@@ -39,6 +39,9 @@ a{
 	margin-bottom: 20px;
 	font-size: 1.2rem;
 }
+.phone{
+	margin-bottom: 7px;
+}
 .summary{
 	margin-bottom: 10px;
 	font-size: 1.2rem;
@@ -73,4 +76,6 @@ a{
 .footer{
 	border-top: #2a2a2a solid 1px;
 	padding-top: 20px;
+	display: flex;
+	justify-content: space-between;
 }
