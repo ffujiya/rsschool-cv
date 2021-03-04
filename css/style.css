@@ -25,10 +25,11 @@ a{
 .container{
 	max-width: 1024px;
 	margin: 0 auto;
+	padding: 50px 10px;
 }
 .top{
 	display: flex;
-	margin-top: 50px;
+	margin-bottom: 50px;
 }
 .name{
 	font-size: 3rem;
@@ -58,11 +59,12 @@ a{
 	flex: 0 0 auto;
 }
 .experience{
-	margin-top: 50px;
+	margin-bottom: 20px;
 }
+
 .experience-header,.education-header{
 	font-size: 2rem;
-	margin: 20px 0;
+	margin-bottom: 20px;
 }
 .date{
 	line-height: 2rem;
